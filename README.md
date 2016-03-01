@@ -1,6 +1,8 @@
 # WPLib
 **A PHP Library  plus Conventions for Building Complex Custom WordPress Apps**
 
+[![Stories in Ready](https://badge.waffle.io/wplib/wplib.svg?label=ready&title=Ready)](http://waffle.io/wplib/wplib)
+
 WPLib was designed for use by teams who build custom sites and need professional workflow. The library is a **thin layer** that provides a simple **Module System** and a lightweight **Model+View architecture**.
 
 WPLib is for those professionals who want their custom-developed WordPress sites to be both robust and easy to manage and maintain as site complexity grows.
